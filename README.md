@@ -24,3 +24,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akashkumar55&show_icons=true&locale=en" alt="akashkumar55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akashkumar55&" alt="akashkumar55" /></p>
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
